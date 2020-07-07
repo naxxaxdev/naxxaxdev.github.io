@@ -1,3 +1,7 @@
 body, h1, p, button{
   font-family: "Lato", sans-serif;
 }
+
+.w3-bar {
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+}
