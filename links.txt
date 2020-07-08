@@ -2,3 +2,21 @@ Bootstrap CDN / API:
 
 
 https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+
+
+Family Fonts
+
+https://fonts.googleapis.com/css?family=Lato
+
+
+
+
+Examples 
+
+
+1 - Turn on/off the bulb
+
+https://naxxaxdev.github.io/pic_bulbon.gif (Bulb on)
+
+https://naxxaxdev.github.io/pic_bulboff.gif (Bulb off)
+
